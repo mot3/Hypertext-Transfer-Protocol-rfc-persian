@@ -11,7 +11,7 @@
 
 > امیدوارم من را در این راه همراهی و پشتیبانی کنید.
 
-<span dir="auto"> ([http wiki](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol))
+<span dir="ltr"> ([http wiki](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol))
 ([rfc doc](https://www.ietf.org/rfc/rfc2068.txt)) </span>
 
 </div>

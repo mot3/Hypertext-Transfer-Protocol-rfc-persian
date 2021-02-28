@@ -1,4 +1,4 @@
-![Build Status - Cirrus](./http.png)
+![Build Status - Cirrus](./img/http.png)
 
 <div dir="rtl">
 

@@ -18,7 +18,7 @@
 ([مرجع](https://www.ietf.org/rfc/rfc2068.txt))
 
 سازنده پروژه:
-[محمد توکلی](github.com/mot3)
+[محمد توکلی](https://github.com/mot3)
 
 توسعه دهندگان پروژه:
 

@@ -1,6 +1,4 @@
-# HTTP RFC in Persian
-
-![Build Status - Cirrus](./img/http.png)
+# ![HTTP](./img/http.png)
 
 <div dir="auto">
 

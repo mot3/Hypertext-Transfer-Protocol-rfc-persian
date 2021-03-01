@@ -22,6 +22,8 @@
 سازنده پروژه:
 [محمد توکلی](@mot3)
 
+GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
+
 توسعه دهندگان پروژه:
 
 -

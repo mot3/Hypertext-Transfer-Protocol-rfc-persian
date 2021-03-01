@@ -6,8 +6,8 @@
 
 ## ترجمه ار.اف.سی پروتکل انتقال فرامتن ‍‍`HTTP‍`
 
-- [معرفی و شروع ار.اف.سی](./Book/Abstract.md)
-- [فهرست](./Book/Table-of-Contents.md)
+- [معرفی و شروع ار.اف.سی](./http_rfc_Persian/Abstract.md)
+- [فهرست](./http_rfc_Persian/Table-of-Contents.md)
 
 ### RFC
 

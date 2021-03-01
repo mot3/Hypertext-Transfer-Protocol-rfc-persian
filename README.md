@@ -20,9 +20,7 @@
 فایل کامل مرجع در [آدرس](./English_file/Hypertext-Transfer-Protocol.txt) گذاشته شده است در صورت تمایل به دیدن وبسایت به لینک روبرو بروید: ([مرجع](https://www.ietf.org/rfc/rfc2068.txt))
 
 سازنده پروژه:
-[محمد توکلی](@mot3)
-
-GitHub supports many extras in Markdown that help you reference and link to people. If you ever want to direct a comment at someone, you can prefix their name with an @ symbol: Hey @kneath — love your sweater!
+محمد توکلی: @mot3
 
 توسعه دهندگان پروژه:
 

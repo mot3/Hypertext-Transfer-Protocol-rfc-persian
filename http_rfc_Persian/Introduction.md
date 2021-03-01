@@ -6,6 +6,6 @@
 
 - [بعدی](ـ)
 - [قبلی](./Abstract.md#خلاصه)
-- [فهرست](./Table-of-Contents.md)
+- [فهرست](./Table-of-Contents.md#فهرست)
 
 </div>

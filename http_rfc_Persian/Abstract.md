@@ -19,7 +19,7 @@
 
 HTTP توسط اطلاعات وب جهان-گستر (www) از سال ۱۹۹۰ استفاده میشود.
 
-- [بعدی](./Introduction.md)
-- [فهرست](./Table-of-Contents.md)
+- [بعدی](./Introduction.md#مقدمه)
+- [فهرست](./Table-of-Contents.md#فهرست)
 
 </div>

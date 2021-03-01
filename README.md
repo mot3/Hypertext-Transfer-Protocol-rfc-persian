@@ -20,7 +20,7 @@
 فایل کامل مرجع در [آدرس](./English_file/Hypertext-Transfer-Protocol.txt) گذاشته شده است در صورت تمایل به دیدن وبسایت به لینک روبرو بروید: ([مرجع](https://www.ietf.org/rfc/rfc2068.txt))
 
 سازنده پروژه:
-[محمد توکلی](https://github.com/mot3)
+[محمد توکلی](@mot3)
 
 توسعه دهندگان پروژه:
 

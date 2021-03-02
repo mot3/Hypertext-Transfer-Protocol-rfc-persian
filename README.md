@@ -1,4 +1,4 @@
-# HTTP RFC in Persian jifejaw
+# HTTP RFC in Persian
 
 ![HTTP](./img/http.png)
 

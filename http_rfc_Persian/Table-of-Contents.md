@@ -8,7 +8,7 @@
 
 1. [مقدمه](./Introduction.md#مقدمه)
     1. [هدف](./Introduction.md#هدف)
-    2. [الزامات](./Introduction.md#)
+    2. [الزامات](./Introduction.md#الزامات)
     3. [واژه شناسی](./Introduction.md#)
     4. [ـ](./Introduction.md#)
 

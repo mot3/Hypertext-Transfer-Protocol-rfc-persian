@@ -23,7 +23,7 @@
 برای کسب اطلاعات اولیه درمورد پروتکل:
 ([http wiki](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol))
 
-فایل کامل مرجع در [آدرس](./English_file/Hypertext-Transfer-Protocol.txt)
+فایل کامل مرجع در [آدرس](./http_rfc_Original/Hypertext-Transfer-Protocol.txt)
 گذاشته شده است در صورت تمایل به دیدن وبسایت به لینک روبرو بروید: [مرجع](https://www.ietf.org/rfc/rfc2068.txt)
 
 > امیدوارم من را در این راه همراهی و پشتیبانی کنید.

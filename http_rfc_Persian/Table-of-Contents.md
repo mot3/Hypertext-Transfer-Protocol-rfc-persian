@@ -9,7 +9,7 @@
 1. [مقدمه](./Introduction.md#مقدمه)
     1. [هدف](./Introduction.md#هدف)
     2. [الزامات](./Introduction.md#الزامات)
-    3. [واژه شناسی](./Introduction.md#)
+    3. [واژه شناسی](./Introduction.md#واژه شناسی)
     4. [ـ](./Introduction.md#)
 
 </div>

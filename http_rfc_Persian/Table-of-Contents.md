@@ -10,6 +10,6 @@
     1. [هدف](./Introduction.md#هدف)
     2. [الزامات](./Introduction.md#الزامات)
     3. [واژه شناسی](./Introduction.md#واژه-شناسی)
-    4. [ـ](./Introduction.md#)
+    4. [عملکرد کلی مقاله](./Introduction.md#عملکرد-کلی-مقاله)
 
 </div>

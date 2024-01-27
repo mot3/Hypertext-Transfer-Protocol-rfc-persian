@@ -1,0 +1,5 @@
+[book]
+authors = ["Mota"]
+language = "fa"
+multilingual = false
+src = "src"

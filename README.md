@@ -19,10 +19,11 @@
 
 ### لینک ها و مراجع
 
+[مرجع](https://www.rfc-editor.org/rfc/rfc9110)
+
 برای کسب اطلاعات اولیه درمورد پروتکل:
 ([http wiki](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol))
 
-[مرجع](https://www.rfc-editor.org/rfc/rfc9114)
 
 > امیدوارم من را در این راه همراهی و پشتیبانی کنید.
 
@@ -34,5 +35,7 @@
 توسعه دهندگان پروژه:
 
 -
+
+Powered by [mdBook](https://github.com/rust-lang/mdBook)
 
 </div>

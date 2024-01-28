@@ -6,8 +6,7 @@
 
 ## ترجمه ار.اف.سی پروتکل انتقال فرامتن ‍‍`HTTP‍`
 
-- [معرفی و شروع ار.اف.سی](./http_rfc_Persian/Abstract.md#معرفی)
-- [فهرست](./http_rfc_Persian/Table-of-Contents.md#فهرست)
+- [معرفی و فهرست ار.اف.سی](./persian_http_rfc/src/SUMMARY.md)
 
 ## RFC
 
@@ -23,8 +22,7 @@
 برای کسب اطلاعات اولیه درمورد پروتکل:
 ([http wiki](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol))
 
-فایل کامل مرجع در [آدرس](./http_rfc_Original/Hypertext-Transfer-Protocol.txt)
-گذاشته شده است در صورت تمایل به دیدن وبسایت به لینک روبرو بروید: [مرجع](https://www.ietf.org/rfc/rfc2068.txt)
+[مرجع](https://www.rfc-editor.org/rfc/rfc9114)
 
 > امیدوارم من را در این راه همراهی و پشتیبانی کنید.
 

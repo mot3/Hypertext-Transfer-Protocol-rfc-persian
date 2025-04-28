@@ -13,3 +13,6 @@
   - [مشخصات فنی منسوخ شده]()
 - [انطباق]()
   - [نحوه نشانه گذاری](./chapter_2_1.md)
+- [Identifiers in HTTP]()
+  - [URI References](./chapter_4_1.md)
+  - [HTTP-Related URI Schemes](./chapter_4_2.md)

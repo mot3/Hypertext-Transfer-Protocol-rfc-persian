@@ -7,7 +7,7 @@
 > URI-reference = <URI-reference, see [URI], Section 4.1>
 > absolute-URI  = <absolute-URI, see [URI], Section 4.3>
 > relative-part = <relative-part, see [URI], Section 4.2>
->  authority     = <authority, see [URI], Section 3.2>
+> authority     = <authority, see [URI], Section 3.2>
 > uri-host      = <host, see [URI], Section 3.2.2>
 > port          = <port, see [URI], Section 3.2.3>
 > path-abempty  = <path-abempty, see [URI], Section 3.3>

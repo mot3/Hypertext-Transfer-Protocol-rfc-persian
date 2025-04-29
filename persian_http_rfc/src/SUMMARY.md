@@ -16,3 +16,4 @@
 - [Identifiers in HTTP]()
   - [URI References](./chapter_4_1.md)
   - [HTTP-Related URI Schemes](./chapter_4_2.md)
+  - [Authoritative Access](./chapter_4_3.md)
